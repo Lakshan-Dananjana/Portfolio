@@ -46,7 +46,7 @@ function HomeBody() {
             <SocialIcons/>
         </div>
         <div className='sm:w-[50%] h-[50%] sm:h-[100%] flex justify-center items-center' >
-            <img src={image} alt="Profile Of Lakshan Dananjana"  className='w-[50%] sm:w-[60%]  rounded-xl border-sky-500 shadow-2xl shadow-cyan-400'/>
+            <img src={image} alt="Profile Of Lakshan Dananjana"  className='h-[90%] sm:h-[50%]  rounded-xl border-sky-500 shadow-2xl shadow-cyan-400'/>
         </div>
     </div>
   );
